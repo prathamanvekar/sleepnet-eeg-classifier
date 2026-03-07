@@ -1,0 +1,8 @@
+torch
+numpy
+mne
+scikit-learn
+matplotlib
+seaborn
+tqdm
+flask
